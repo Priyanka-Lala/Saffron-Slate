@@ -1,0 +1,10 @@
+{
+  "description": "A warm, user-friendly platform for discovering, saving, and sharing editorial recipes with personalized recommendations and easy recipe creation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
